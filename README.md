@@ -17,20 +17,17 @@ Easily allocate and track rooms with an intuitive interface.
 Animations
 Visualizing the complete flow of the application, from login to reporting.
 
-📂 Project Structure
-plaintext
-Copy code
-Hostel_management_system/
-│
-├── src/          # Source code files
-├── templates/    # HTML templates for web pages
-├── static/       # CSS, JS, images, and other static assets
-│   ├── images/   # Images and screenshots
-│   ├── css/      # Stylesheets
-│   └── js/       # JavaScript files
-├── database/     # Database files
-├── README.md     # Project documentation
-└── LICENSE       # Licensing information
+Project Directory Structure
+Hostel_management_system/: Root directory of the project.
+src/: Contains the source code files.
+templates/: Stores HTML templates for the web pages.
+static/: Holds static assets like CSS, JavaScript, and images.
+images/: Directory for images and screenshots.
+css/: Contains stylesheets for the application.
+js/: Contains JavaScript files for dynamic functionality.
+database/: Contains database-related files and configurations.
+README.md: Documentation file describing the project.
+LICENSE: File specifying the licensing information for the project.
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: Python (Flask or Django Framework)
