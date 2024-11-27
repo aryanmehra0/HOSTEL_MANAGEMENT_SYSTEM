@@ -48,7 +48,7 @@ Student Records: Maintain detailed student profiles and attendance.
 Fee Tracking: Handle fee payments and due balances securely.
 Analytics: Generate insightful reports for better decision-making.
 
-Get started today and transform your hostel management process!
+Get started today and transform your hostel management process!.
 
 Images
 
